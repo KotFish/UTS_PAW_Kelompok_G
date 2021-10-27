@@ -3,7 +3,7 @@
     $host = "localhost";
     $user = "root";
     $pass = "";
-    $name = "uts_pbp_kelompokg";
+    $name = "uts_paw_kelompokg";
     
     $con = mysqli_connect($host,$user,$pass,$name);
     
